@@ -34,3 +34,6 @@ Two variables have to be adjusted in the code (line 42-43):
   - 1: spanish
  
  Note: it is necessary to update the working directory and create the folder structure before running the code
+
+## Credits
+Alex Chunet
